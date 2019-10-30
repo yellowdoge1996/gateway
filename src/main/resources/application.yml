@@ -27,7 +27,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://111.230.134.49:1001/eureka/
+      defaultZone: http://host:port/eureka/
 
 management:
   endpoints:
